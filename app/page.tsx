@@ -9,7 +9,7 @@ export default function Home() {
               ⚕
             </div>
             <h1 className="text-xl font-bold text-gray-800">
-              فروشگاه پزشکی من
+              فروشگاه پزشکی MEDTOO
             </h1>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-gray-600">
@@ -39,8 +39,8 @@ export default function Home() {
           <span className="text-blue-600"> محصولات پزشکی</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
-          خرید آسان و مطمئن دارو، مکمل، لوازم پزشکی و تجهیزات درمانی با ارسال
-          سریع به سراسر کشور
+          خرید آسان و مطمئن لوازم پزشکی و تجهیزات درمانی با ارسال سریع به سراسر
+          کشور
         </p>
         <div className="flex flex-wrap gap-4 justify-center">
           <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-lg transition shadow-lg shadow-blue-200">
@@ -82,7 +82,7 @@ export default function Home() {
       {/* فوتر موقت */}
       <footer className="bg-gray-900 text-gray-400 text-center py-6">
         <p className="text-sm">
-          © ۱۴۰۴ فروشگاه پزشکی من — تمامی حقوق محفوظ است
+          © ۱۴۰۴ فروشگاه پزشکی MEDTOO — تمامی حقوق محفوظ است
         </p>
       </footer>
     </main>
